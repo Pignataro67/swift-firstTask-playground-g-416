@@ -1,6 +1,5 @@
 /*: Outline
  
- 
  # Variables and Stuff
  
  ## Readings associated with this lab
